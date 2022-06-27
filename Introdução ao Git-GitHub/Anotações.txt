@@ -1,0 +1,2 @@
+Comandos do Git Bash
+* git init -> Cria um repositório na pasta criada.(Inicializa um repositório)
